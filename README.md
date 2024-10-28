@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Hello! I'm Ajay Surya](https://your-link-to-gif.com/your-gif.gif)
 
 Here are some ideas to get you started:
 

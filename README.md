@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Pranish-37/Pranish-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can reach me via email at [munnangipranishkumar@gmail.com] or connect on LinkedIn [LinkedIn URL]."
 - 😄 Pronouns: He/Him
 
--->
+

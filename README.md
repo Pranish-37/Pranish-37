@@ -6,8 +6,8 @@
 
 ### 🧐 More About Me:
 - 🌐 **Passionate About:** Artificial Intelligence and Data Science, continuously exploring and applying these fields to solve real-world problems.
-- 📚 **Currently Learning:** Machine Learning (ML), Deep Learning, and its applications.
-- 🤝 **Collaborating On:** Projects related to Machine Learning, Deep Learning, and Data Science.
+- 📚 **Currently Learning:** Machine Learning (ML), Deep Learning, Genrative AI and its applications.
+- 🤝 **Collaborating On:** Projects related to Machine Learning, Deep Learning, Computer Vision and Data Science.
 - 🚀 **Seeking Help With:** Improving my skills in computer vision and advanced deep learning techniques.
 
 ---
